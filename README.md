@@ -14,8 +14,8 @@ The data architecture for this project follows Medallion Architecture Bronze, Si
 (sql-data-warehouse/doc/data_architecture.png)
 
 # **Data Model**
-(sql-data-warehouse/doc/data_model.png)
+![](sql-data-warehouse/docs/Data_model.png)
 
 # **PowerBI Dashboard**
-(sql-data-warehouse/doc/powerbi_dashboard.png)
+![](sql-data-warehouse/docs/PowerBI_Dashboard.png)
 
