@@ -11,11 +11,11 @@ This project involves:
 
 # 🏗️ **Data Architecture**
 The data architecture for this project follows Medallion Architecture Bronze, Silver, and Gold layers:
-(sql-data-warehouse/doc/data_architecture.png)
+![Data Architecture](sql-data-warehouse/docs/data_architecture.png)
 
 # **Data Model**
-![](sql-data-warehouse/docs/Data_model.png)
+![Data Model](sql-data-warehouse/docs/data_model.png)
 
 # **PowerBI Dashboard**
-![](sql-data-warehouse/docs/PowerBI_Dashboard.png)
+![Dashboard Overview](sql-data-warehouse/docs/powerbi_dashboard.png)
 
